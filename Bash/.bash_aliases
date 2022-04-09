@@ -4,6 +4,8 @@ alias dl='cd /; cd mnt/c/users/asus/downloads'
 # Fun
 alias cls='clear'
 alias weather='curl wttr.in'
+alias man='info' # Info > man
+alias manual='man'
 
 # Safety
 alias mv='mv -iv'
