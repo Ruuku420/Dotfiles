@@ -110,3 +110,6 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+# Truncate current directories in PS1
+export PROMPT_DIRTRIM=2
